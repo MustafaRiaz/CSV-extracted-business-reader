@@ -1,0 +1,5 @@
+cwd=E:\My Projects\Development\Google maps extractor\lead-workspace
+__dirname=E:\My Projects\Development\Google maps extractor\lead-workspace\dist-electron
+import.meta.url=file:///E:/My%20Projects/Development/Google%20maps%20extractor/lead-workspace/dist-electron/main.js
+FOUND E:\My Projects\Development\Google maps extractor\lead-workspace\electron\preload-bridge.cjs
+USING E:\My Projects\Development\Google maps extractor\lead-workspace\electron\preload-bridge.cjs
